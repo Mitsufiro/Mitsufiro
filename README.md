@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=white?style=flat&" alt="Instagram Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mitsufiro&style=flat&color=blue" alt=""/>
-  
+  <br></br>
 </div>
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
