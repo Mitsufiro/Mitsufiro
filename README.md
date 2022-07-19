@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://gifki.info/uploads/posts/2017-03/1490783734_1778-madara.gif" alt="img" />
+  <img src="https://giphy.com/gifs/gifnews-artists-on-tumblr-parker-jackson-ihwuNjpbb2RBS" alt="img" />
 </div>
