@@ -6,13 +6,10 @@
   <a href="https://t.me/mitsufiro">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white?style=flat&" alt="telegram Badge"/>
   </a>
-  <a href="lyashenk.ilya@gmail.com">
-    <p>По всем вопросам пишите на адрес 
-     <a href="mailto:vlad@webref.ru">vlad@webref.ru</a></p>
-    
-    <img src="https://img.shields.io/badge/Gmail-black?logo=Gmail&logoColor=white?style=flat&" alt="Gmail Badge"/>
+  <a href="https://vk.com/ashen_sight">
+    <img src="https://img.shields.io/badge/VK-black?logo=VK&logoColor=white?style=flat&" alt="VK Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="instagram.com/ashen_sight">
+    <img src="https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=white?style=flat&" alt="Instagram Badge"/>
   </a>
 </div>
