@@ -1,8 +1,8 @@
 <head>
   <style>
    .round {
-    border-radius: 100px; /* Радиус скругления */
-    box-shadow: 0 0 0 3px green, 0 0 13px #333; /* Параметры теней */
+    border-radius: 100px;
+    box-shadow: 0 0 0 3px green, 0 0 13px #333;
    }
   </style>
 </head>
