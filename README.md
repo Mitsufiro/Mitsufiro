@@ -1,12 +1,3 @@
-<head>
-  <style>
-   .round {
-    border-radius: 100px;
-    box-shadow: 0 0 0 3px green, 0 0 13px #333;
-   }
-  </style>
-</head>
-
 <div align="center">  <img src="https://media.giphy.com/media/pWhWtKdqwOAco/giphy.gif" width='400' alt="img" border-radius="100"/>
 </div>
 
