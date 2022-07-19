@@ -1,7 +1,7 @@
 <div align="center">  <img src="https://media.giphy.com/media/pWhWtKdqwOAco/giphy.gif" width='400' alt="img" border-radius="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align='center'>
   <a href="https://t.me/mitsufiro">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white?style=flat&" alt="telegram Badge"/>
   </a>
