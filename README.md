@@ -10,8 +10,7 @@
   </style>
  </head>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/pWhWtKdqwOAco/giphy.gif" width='400' alt="img" class='round' />
+<div align="center" class='round'>  <img src="https://media.giphy.com/media/pWhWtKdqwOAco/giphy.gif" width='400' alt="img" />
 </div>
 
 <div id="badges">
