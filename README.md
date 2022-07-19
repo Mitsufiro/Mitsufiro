@@ -11,4 +11,5 @@
   <a href="instagram.com/ashen_sight">
     <img src="https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=white?style=flat&" alt="Instagram Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=mitsufiro&style=flat&color=blue" alt=""/>
 </div>
