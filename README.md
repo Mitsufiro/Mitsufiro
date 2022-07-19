@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/space-pixel-art-planet-l3978y5HqiEtqupiM" alt="img" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="img" />
 </div>
