@@ -12,7 +12,12 @@
     <img src="https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=white?style=flat&" alt="Instagram Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=mitsufiro&style=flat&color=blue" alt=""/>
-  <br></br>
+</div>
+<div align='center'>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
 </div>
 <div align='center'>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -24,4 +29,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<div align='center'>
+
+---
+
+### :fire: My Stats :
+</div>
+<div align='center'>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitsufiro&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+
+<div align='center'>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsufiro&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
