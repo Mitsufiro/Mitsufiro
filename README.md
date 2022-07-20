@@ -1,4 +1,4 @@
-<div align="center">  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width='350' alt="img"/>
+<div align="center">  <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width='300' alt="img"/>
 </div>
 
 <div id="badges" align='center'>
